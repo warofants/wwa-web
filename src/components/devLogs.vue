@@ -16,23 +16,23 @@
         <h3 id="linkTitle">Jump To:</h3>
         
         <div id="linkBoxLinks">
-          <a href="#logTitle">Introduction</a>
+          <router-link to="devLogs#logTitle">Introduction</router-link>
           <br />
-          <a href="#gettingStarted">Getting started</a>
+          <router-link to="devLogs#gettingStarted">Getting started</router-link>
           <br />
-          <a href="#Coding">Coding</a>
+          <router-link to="devLogs#Coding">Coding</router-link>
           <br />
-          <a href="#styleGuide">Style Guide</a>
+          <router-link to="devLogs#styleGuide">Style Guide</router-link>
           <br />
-          <a href="#art">Art</a>
+          <router-link to="devLogs#art">Art</router-link>
           <br />
-          <a href="#gameDesign">Game Design</a>
+          <router-link to="devLogs#gameDesign">Game Design</router-link>
           <br />
-          <a href="#management">Management</a>
+          <router-link to="devLogs#management">Management</router-link>
           <br />
-          <a href="#roles">Roles</a>
+          <router-link to="devLogs#roles">Roles</router-link>
           <br />
-          <a href="#message">Message of the <br> Day</a>
+          <router-link to="devLogs#message">Message of the <br> Day</router-link>
           <br />
         </div>
       </div>
