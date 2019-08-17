@@ -1,0 +1,110 @@
+body {
+    font-family: 'Inconsolata', monospace;
+    background-color: black;
+    color: white;
+}
+
+.description {
+    
+   
+    font-size: 16px;
+    position: absolute;
+    left: 25%;
+    right: 25%;
+    top: 500px;
+}
+
+.title {
+    text-align: center;
+}
+
+#buttons {
+    text-align: center;
+    top: 30px;
+    position: relative;
+    
+}
+
+.links {
+    text-align: center;
+}
+
+#wwaLogo {
+    height: 350px;
+    width: 350px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+#githubLink {
+    right: 70px;
+    top: 275px;
+    position: relative;
+
+}
+
+#githubLogo {
+    height: 40 px;
+    width: 40px;
+    position: relative;
+    top: 275px;
+    
+    right: 70px;
+}
+
+#discordLogo {
+    height: 40px;
+    width: 40px;
+    position: relative;
+    top: 195px;
+    left: 60px;
+}
+
+#discordLink {
+    position: relative;
+    text-align: center;
+    top: 180px;
+    left: 60px;
+}
+
+.links {
+    top: -10px;
+        position: relative;
+        
+
+}
+
+#devLogs {
+    font-size: 15px;
+    left: 25%;
+    right: 25%;
+    position: absolute;
+}
+
+#devLogsWrapper {
+    position: relative;
+    top: 50px;
+}
+
+#linkTitle {
+    z-index: 10;
+   position: fixed;
+   font-size: 25px;
+   left: 15px;
+   top: 580px;
+  
+    
+}
+
+#linkBoxLinks {
+   z-index: 10;
+   position: fixed;
+   left: 15px;
+   top: 630px;
+  
+
+}
+
+
