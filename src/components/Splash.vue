@@ -34,9 +34,8 @@
               <a href="https://github.com/warofants/wwa" id="githubLink">Github</a>
             </p>
             <p>
-              <a href="https://discordapp.com/invite/NACP6WZ"
-              target="_blank">
-              <img src="../assets/img/discordLogo.png" alt="Discord-logo" id="discordLogo" /><a>
+              <a href="https://discordapp.com/invite/NACP6WZ" target="_blank">
+              <img src="../assets/img/discordLogo.png" alt="Discord-logo" id="discordLogo" /></a>
             </p>
             <p>
               <a id="discordLink" href="https://discordapp.com/invite/NACP6WZ">Discord</a>
