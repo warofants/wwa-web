@@ -1,0 +1,17 @@
+language: node_js
+node_js:
+ - "node"
+
+cache: npm
+
+script: npm run build && echo 'worldwarofants.com' > dist/CNAME
+
+deploy:
+ provider: pages
+ skip_cleanup: true
+ github_token: $GITHUB_TOKEN
+ local_dir: dist
+ target_branch: gh-pages
+ keep_history: true
+ on:
+   branch: master
