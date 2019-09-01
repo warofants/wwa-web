@@ -54,9 +54,7 @@
                 /></a>
               </p>
               <p>
-                <a id="discordLink" href="https://discordapp.com/invite/NACP6WZ"
-                  >Discord</a
-                >
+                <a id="discordLink" href="https://discordapp.com/invite/NACP6WZ">Discord</a>
               </p>
               <p></p>
             </div>
