@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "build": "rimraf dist && parcel build src/index.html --no-source-maps --out-dir dist",
+    "serve": "vue-cli-service serve",
     "watch": "parcel src/index.html"
   },
   "dependencies": {
