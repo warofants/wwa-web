@@ -16,20 +16,18 @@ export default new Router({
     {
       path: "/about",
       name: "About",
-      component: () =>
-        import("./components/About.vue")
+      component: () => import("./components/About.vue")
     },
-    { 
+    {
       path: "/devLogs",
       name: "DevLogs",
-      component: () =>
-      import("./components/devLogs.vue")
-    },
+      component: () => import("./components/devLogs.vue")
+    }
   ],
   scrollBehavior(to) {
     if (to.hash) {
       return {
-        selector: to.hash,
+        selector: to.hash
       };
     }
   }

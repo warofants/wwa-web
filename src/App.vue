@@ -5,5 +5,5 @@
 </template>
 
 <style lang="scss">
-@import url('https://fonts.googleapis.com/css?family=Inconsolata&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Inconsolata&display=swap");
 </style>
